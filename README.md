@@ -10,3 +10,4 @@ The study highlights how different model architectures interpret visual data: Th
 
 Overall, Vireon showcases the strengths, limitations, and trade-offs of classical and neural models in visual recognition tasks, emphasizing the importance of aligning model choice with the needs of the application — whether that’s interpretability, performance, or computational efficiency.
 
+to know more , check Report.docx
